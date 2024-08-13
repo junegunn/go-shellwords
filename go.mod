@@ -1,3 +1,3 @@
-module github.com/mattn/go-shellwords
+module github.com/junegunn/go-shellwords
 
 go 1.13
